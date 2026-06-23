@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+results/
+_tmp*/
+
+NOT156_train/
+
+outputs/*
+!outputs/
+!outputs/stage2.pt
+
+pretrained/sd-turbo/
+pretrained/sd-turbo-hf/
+pretrained/sd2-*/
