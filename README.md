@@ -30,7 +30,7 @@ pretrained/sd-turbo/
     `-- diffusion_pytorch_model.safetensors
 ```
 
-The released project checkpoint and SPyNet weight are provided in `outputs/stage2.pt` and `pretrained/spynet.pth`, respectively.
+The released project checkpoint and SpyNet weight are provided in `outputs/stage2.pt` and `pretrained/spynet.pth`, respectively.
 
 ## Datasets Preparation
 
