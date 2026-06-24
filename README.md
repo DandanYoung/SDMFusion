@@ -70,7 +70,7 @@ results/<dataset>/
 
 ## Training
 
-Train Stage I and Stage II with one Linux command:
+Train Stage I and Stage II:
 
 ```bash
 CUDA_VISIBLE_DEVICES=0 python train_video.py --train_root NOT156_train
